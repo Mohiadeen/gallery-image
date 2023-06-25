@@ -1,0 +1,38 @@
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+}
+.img {
+  width: 60%;
+}
+.head {
+  color: #1e293b;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.details {
+  color: #64748b;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-bottom: 20px;
+}
+.img-list {
+  display: flex;
+}

@@ -1,0 +1,21 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.inActive {
+  width: 70%;
+  margin-right: 5px;
+  opacity: 0.5;
+}
+.active {
+  width: 70%;
+  margin-right: 5px;
+  opacity: 1;
+}
+.btn {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
